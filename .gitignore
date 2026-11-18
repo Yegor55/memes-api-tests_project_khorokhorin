@@ -4,3 +4,4 @@ __pycache__/
 .idea/
 allure-results/
 .DS_Store
+token.txt
